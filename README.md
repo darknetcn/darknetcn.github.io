@@ -34,17 +34,17 @@
     http://thestock6nonb74owd6utzh4vld3xsf2n2fwxpwywjgq7maj47mvwmid.onion/ - The Stock insder,号称是暗网的股票内幕交易团体，入会需要条件。
     http://wbi67emmdx6i6rcr6nnk3hco3nrvdc2juxrbvomvt6nze5afjz6pgtad.onion/ – MadIRC 号称轻松自由地使用手工IRC 客户端，免费注册。
  
- 4、色情网站
+ 4、成人网站
    http://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion/ BTdig 主要是色情影片的bt和磁力下载。
-   http://yrlqondksstr3gbcqby6nseqrlcrkeayy2yme2ej5347catfzdz5miad.onion/ PinkCity 粉色城市，最大的亚洲色情影片网站，在线及下载完全免费无广告，资源不定期更新。
+   http://yrlqondksstr3gbcqby6nseqrlcrkeayy2yme2ej5347catfzdz5miad.onion/ PinkCity 粉色城市，号称最大的亚洲色情影片网站，在线及下载完全免费无广告，资源不定期更新。
   
    
 
 5、商业市场，主要以Drug为主
   
-   http://incognito2sjotqmbkys7wivkpq7d4a4tkpweoiqefk7mpf7uvyfalad.onion/ Incognito现存较大的综合性市场，以毒品为主，大多数为诚信商家，支持担保交易，现在注册需要邀请码
-   http://w2pgi6gygyme3zghvromtrcalux5divxysflsvjn3vwg7tpxltzhz5ad.onion/ GreenTown 绿色小镇，口碑与品质最好的大麻市场，支持中英双语，提供大麻及制品和种子等。
-   http://cccocnf4n6w4zfoilhb7qacxslehpxut57lunki6yqutntzc3jrzx6ad.onion/ GreenTown 绿色小镇的另一个镜像
+   http://incognito2sjotqmbkys7wivkpq7d4a4tkpweoiqefk7mpf7uvyfalad.onion/ Incognito现存较大的综合性市场，以毒品为主，大多数为诚信商家，担保交易，现在注册需要邀请码
+   http://w2pgi6gygyme3zghvromtrcalux5divxysflsvjn3vwg7tpxltzhz5ad.onion/ GreenTown 绿色小镇大麻市场，收不到货全额退款，口碑与品质都不错，支持中英双语。
+   http://cccocnf4n6w4zfoilhb7qacxslehpxut57lunki6yqutntzc3jrzx6ad.onion/ GreenTown 绿色小镇的另一个入口
    http://hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda7nchid.onion  Hydra 暗网市场，以海洛因、病毒可卡因及处方药品、致幻毒品等为主，存在诈骗商家，支持比特币与门罗币交易，需要注册。
    http://bohemiaobbpsjvkexpdpnekqai2ebi32xgr6sbhdpapipv547rm6jhad.onion Bohemia 暗网市场，以海洛因、病毒可卡因及处方药品、致幻毒品为主，有内在钱包，支持比特币与门罗币交易，需要注册，受到ddos攻击，常掉线。
    http://t2d4guudlshmyuwhd5tse2n247j5pyikztdfv2ejfrmlj4jf2lnruwad.onion/ Tor2Door 综合市场 
