@@ -45,8 +45,8 @@
    http://incognito2sjotqmbkys7wivkpq7d4a4tkpweoiqefk7mpf7uvyfalad.onion/ Incognito现存较大的综合性市场，以毒品为主，大多数为诚信商家，担保交易，现在注册需要邀请码
    http://w2pgi6gygyme3zghvromtrcalux5divxysflsvjn3vwg7tpxltzhz5ad.onion/ GreenTown 绿色小镇大麻市场，收不到货全额退款，口碑与品质都不错，支持中英双语。
    http://cccocnf4n6w4zfoilhb7qacxslehpxut57lunki6yqutntzc3jrzx6ad.onion/ GreenTown 绿色小镇的另一个入口
-   http://hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda7nchid.onion  Hydra 暗网市场，以海洛因、病毒可卡因及处方药品、致幻毒品等为主，存在诈骗商家，支持比特币与门罗币交易，需要注册。
-   http://bohemiaobbpsjvkexpdpnekqai2ebi32xgr6sbhdpapipv547rm6jhad.onion Bohemia 暗网市场，以海洛因、病毒可卡因及处方药品、致幻毒品为主，有内在钱包，支持比特币与门罗币交易，需要注册，受到ddos攻击，常掉线。
+   http://hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda7nchid.onion  Hydra 暗网市场，以海洛因、冰毒可卡因及处方药品、致幻毒品等为主，存在诈骗商家，支持比特币与门罗币交易，需要注册。
+   http://bohemiaobbpsjvkexpdpnekqai2ebi32xgr6sbhdpapipv547rm6jhad.onion Bohemia 暗网市场，以海洛因、冰毒可卡因及处方药品、致幻毒品为主，有内在钱包，支持比特币与门罗币交易，需要注册，受到ddos攻击，常掉线。
    http://t2d4guudlshmyuwhd5tse2n247j5pyikztdfv2ejfrmlj4jf2lnruwad.onion/ Tor2Door 综合市场 
    
 6、暗网域名与服务器
