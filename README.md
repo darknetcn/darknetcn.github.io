@@ -1,8 +1,8 @@
 暗网网站中文网址导航2022年6月
 
 2022年6月份最新的暗网导航，这里只给大家整理了Tor项目支持且存活的V3暗网网站域名，最新的2022暗网网址入口如下（未更新完毕，更新持续中......）：
-提示：本文只为学习交流。暗网中充斥着暴力、恐怖、诈骗，谨慎学习。
-后附部分论坛公开的诈骗网址！！！！。
+提示：本文只为学习交流。
+后附部分论坛公开的诈骗网址！！！！
 
 
 安装洋葱浏览器地址  http://torproject.org/ 加速器看自己喜好了。
@@ -15,7 +15,7 @@
     http://tordexu73joywapk2txdr54jed4imqledpcvcuf75qsas2gwdgksvnyd.onion/ – tor导航，广告全部都是骗子！搜索结果大多都是骗人的
     http://xmh57jrknzkhv6y3ls3ubitzfqnkrwxhopf5aygthi7d6rplyvk3noyd.onion/ – 火炬搜索，检索结果大多是V2，无用
     http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/ – Ahmia现行比较好的搜索引擎，结果都是暗网地址，不过经常打不开
-	http://recon222tttn4ob7ujdhbn3s4gjre7netvzybuvbq2bcqwltkiqinhad.onion - Recon主要是暗网市场索引，显示市场在线状态，同时使用pgp查询商家，ddos攻击中，难以打开。
+    http://recon222tttn4ob7ujdhbn3s4gjre7netvzybuvbq2bcqwltkiqinhad.onion - Recon主要是暗网市场索引，显示市场在线状态，同时使用pgp查询商家，ddos攻击中，难以打开。
 	
 2、 免费匿名邮箱提供商
    ！！！！关于免费，天下有免费的午餐吗？为什么提供免费服务不去猜测，但谨慎使用！！！！
@@ -78,7 +78,7 @@
     http://bcloudwenjxgcxjh6uheyt72a5isimzgg4kv5u74jb2s22y3hzpwh6id.onion/ – BlackCloud 黑云云盘，需要Torbox邮件地址
     http://keybase5wmilwokqirssclfnsqrjdsi7jdir5wy7y7iu3tanwmtp6oid.onion/ – Keybase 端到端的信息与文件加密服务平台
    
-10、黑客
+10、黑客相关
 
     http://relateoak2hkvdty6ldp7x67hys7pzaeax3hwhidbqkjzva3223jpxqd.onion/ – RelateList 关系列表，号称知道 5,962,991 个组织和 45,455,382 个人之间的关系，通过公司名字或者网址就可以查询。
     http://blackhost7pws76u6vohksdahnm6adf7riukgcmahrwt43wv2drvyxid.onion/ – Hacker Game 黑客游戏，模拟黑客进行的游戏和简单的黑客教学，无害。
@@ -86,9 +86,8 @@
    
    
    
-   11、下列是认证过的Scam网站，仅是冰山一角，可使用Ctrl+F查找，暗网中的区块链钱包都不安全，就不贴地址了。
-   Use CTRL + F to Search. Insert a onion link or a name in the search bar.
-
+   11、下列是整理的部分诈骗网站，还只是冰山一角，可使用Ctrl+F查找，暗网中的区块链钱包都不安全，就不贴地址了。
+  
    
         http://222222222xn2ozdb2mjnkjrvcopf5thb6la6yj24jvyjqrbohx5kccid.onion/ – Imperial (Best Financial Market)
       
