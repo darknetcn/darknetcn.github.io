@@ -1,13 +1,11 @@
-# <meta name="google-site-verification" content="Oj-vy47x0BIFsywG7AkfZgSOL2i0Amgj9amlisEc6Ew" />暗网网站中文网址导航2022年6月
-
-<meta name="google-site-verification" content="Oj-vy47x0BIFsywG7AkfZgSOL2i0Amgj9amlisEc6Ew" />暗网网站中文网址导航2022年6月
-
+暗网网站中文网址导航2022年6月
 
 2022年6月份最新的暗网导航，这里只给大家整理了Tor项目支持且存活的V3暗网网站域名，最新的2022暗网网址入口如下（未更新完毕，更新持续中......）：
-提示：本文只为学习交流。暗网中充斥着暴力、恐怖、诈骗，谨慎学习，后附部分论坛公开的诈骗网址。
+提示：本文只为学习交流。暗网中充斥着暴力、恐怖、诈骗，谨慎学习。
+后附部分论坛公开的诈骗网址！！！！。
 
 
-安装洋葱浏览器地址  http://torproject.org/
+安装洋葱浏览器地址  http://torproject.org/ 加速器看自己喜好了。
 
 1、暗网搜索引擎
     ！！！！不要再搜索引擎里搜索交易市场，搜索到的市场99%都是骗局，后面会列出论坛推荐的市场。！！！
@@ -30,7 +28,7 @@
 3、论坛与社交网站
 
     http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/ – dread 论坛，需注册，在暗网市场与商家捐赠建立，内容非常友好
-	http://facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion/ – Facebook 暗网facebook，与明网相同的社交平台，可以匿名注册使用
+   http://facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion/ – Facebook 暗网facebook，与明网相同的社交平台，可以匿名注册使用
     http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion/ – PirateBay 论坛，有关电视、电影、音乐、种子下载和商业讨论等诸多内容，需注册使用，界面友好，言论也比较友善，最高评论数达18000+
     http://rutordeepkpafpudl22pbbhzm4llbgncunvgcc66kax55sc4mp4kxcid.onion/ – Rutor Ru代表俄罗斯，是俄罗斯tor论坛，默认俄语显示，支持英语但几乎没人使用，内容宽泛，需要注册，单个帖信息量高达80k
     http://thestock6nonb74owd6utzh4vld3xsf2n2fwxpwywjgq7maj47mvwmid.onion/ - The Stock insder,号称是暗网的股票内幕交易团体，入会需要条件。
@@ -38,18 +36,19 @@
  
  4、成人网站
    http://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion/ BTdig 主要是色情影片的bt和磁力下载。
-   http://yrlqondksstr3gbcqby6nseqrlcrkeayy2yme2ej5347catfzdz5miad.onion/ PinkCity 粉色城市，号称最大的亚洲色情影片网站，在线及下载完全免费无广告，资源不定期更新。
+   http://yrlqondksstr3gbcqby6nseqrlcrkeayy2yme2ej5347catfzdz5miad.onion/ PinkCity 粉色城市，最大的亚洲色情影片网站，在线及下载完全免费无广告，资源不定期更新。
   
    
 
 5、商业市场，主要以Drug为主
   
-   http://incognito2sjotqmbkys7wivkpq7d4a4tkpweoiqefk7mpf7uvyfalad.onion/ Incognito现存较大的综合性市场，以毒品为主，大多数为诚信商家，担保交易，现在注册需要邀请码
-   http://w2pgi6gygyme3zghvromtrcalux5divxysflsvjn3vwg7tpxltzhz5ad.onion/ GreenTown 绿色小镇大麻市场，收不到货全额退款，口碑与品质都不错，支持中英双语。
+   http://incognito2sjotqmbkys7wivkpq7d4a4tkpweoiqefk7mpf7uvyfalad.onion/ Incognito现存较大的综合性市场，以毒品为主，大多数为诚信商家，支持担保交易，现在注册需要邀请码
+   http://w2pgi6gygyme3zghvromtrcalux5divxysflsvjn3vwg7tpxltzhz5ad.onion/ GreenTown 绿色小镇大麻市场，收不到货100%退款，口碑与品质都不错，支持中英双语。
    http://cccocnf4n6w4zfoilhb7qacxslehpxut57lunki6yqutntzc3jrzx6ad.onion/ GreenTown 绿色小镇的另一个入口
    http://hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda7nchid.onion  Hydra 暗网市场，以海洛因、冰毒可卡因及处方药品、致幻毒品等为主，存在诈骗商家，支持比特币与门罗币交易，需要注册。
    http://bohemiaobbpsjvkexpdpnekqai2ebi32xgr6sbhdpapipv547rm6jhad.onion Bohemia 暗网市场，以海洛因、冰毒可卡因及处方药品、致幻毒品为主，有内在钱包，支持比特币与门罗币交易，需要注册，受到ddos攻击，常掉线。
    http://t2d4guudlshmyuwhd5tse2n247j5pyikztdfv2ejfrmlj4jf2lnruwad.onion/ Tor2Door 综合市场 
+   http://tppn27sqewi2al4cgt7uwrhgqwrvkbpceze4jxpekqlzzo37pc3txoid.onion 暗网医药市场 论坛中评价很高，奥施康 曲马多 佐匹克隆  伟哥等品种很多，无需注册，收不到货全额退款。
    
 6、暗网域名与服务器
 
